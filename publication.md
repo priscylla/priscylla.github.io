@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 Recent Publications (selected)
+===============================
 
 2014
 -----------
