@@ -9,7 +9,7 @@ Recent Publications (selected)
 
 2014
 -----------
-teste
+
 
 2013
 -----------
