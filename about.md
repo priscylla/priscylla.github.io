@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Priscylla Silva is currently a Professor of Computer Science at the Federal
+Institute of Education, Science and Technology of Sergipe (IFS), in Sergipe
+(Brazil). She received her B.S. degrees in Computer Science from the Federal
+University of Alagoas (UFAL). She worked in the design of systems based on 
+Artiﬁcial Intelligence in Education. Her research interests include Software
+Engineering, Open Source, Artiﬁcial Intelligence, Recommendation System, 
+Ontologies, Knowledge Representation and Semantic Web.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[http://lattes.cnpq.br/9474452617185092](CNPQ Lattes CV)
+[http://www.informatik.uni-trier.de/~ley/pers/hd/s/Silva:Priscylla.html](DBLP)
+[http://scholar.google.com.br/citations?user=iVYE88IAAAAJ](Google Scholar)
+[github.com/priscylla](Github)
+[http://about.me/priscylla.silva](About Me)
