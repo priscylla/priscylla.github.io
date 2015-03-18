@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Como encontrar os índices do maior e do menor elemento de um vetor (em R)"
+date: 2015-03-18 17:30:50
+categories: tutorial, R
+---
+
+Vamos supor que você possui um vetor *v* com os elementos seguintes: [1,2,3,4,0,11,25,63,74,5,100]. E você deseja encontrar os índices onde estão localizados o maior e o menor elemento desse vetor.
+
+Para fazer isso vamos usar as funções **which.max** e **which.min**. A função **which.max** recebe como parâmetro o vetor e retorna o índice do maior elemento encontrado, já a função **which.min** retorna o índice do menor elemento encontrado (lembrando que os índices do vetor começam por 1).
+
+{% highlight R %}
+v <- c(1,2,3,4,0,11,25,63,74,5,100)
+which.max(z) # retorna 11 (índice do elemento 100)
+which.min(z) # retorna 5 (índice do elemento 0)
+{% endhighlight %}
