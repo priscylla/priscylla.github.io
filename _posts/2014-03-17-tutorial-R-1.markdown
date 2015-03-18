@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Como aplicar funções em um vetor R"
+title: "Como aplicar funções em um vetor (Linguagem R)"
 date: 2015-03-17 22:29:50
 categories: tutorial, R
 ---
