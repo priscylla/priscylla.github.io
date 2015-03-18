@@ -12,7 +12,6 @@ Para fazer isso vamos usar a função **sapply**. Nessa função vamos passar do
 {% highlight R %}
 v <- c(1:10)
 v2 <- sapply(v, function(x) {x*3})
-}
 {% endhighlight %}
 
 Ao executar o código, veremos que o vetor *v2* conterá os elementos [3,  6,  9, 12, 15, 18, 21, 24, 27, 30], ou seja, o valor de cada elemento de *v* multiplicado por 3.
