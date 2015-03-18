@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Como aplicar funções em um vetor R"
+date: 2015-03-17 22:29:50
+categories: tutorial, R
+---
+
+Vamos supor que você possui um vetor *v* com os seguintes elementos: [1,2,3,4,5,6,7,8,9,10]. E você deseja multiplicar todos os elementos do vetor por 3, gerando assim um novo vetor *v2*.
+Para fazer isso vamos usar a função *sapply*. Nessa função vamos passar dois parâmetros: i) o vetor no qual vamos aplicar a função e ii) a função que será aplicada sobre o vetor *v*.
+
+{% highlight R %}
+v <- c(1:10)
+v2 <- sapply(v, function(x) {x*3})
+}
+{% endhighlight %}
