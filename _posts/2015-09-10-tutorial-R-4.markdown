@@ -10,7 +10,7 @@ Encontrei a solução no <a href="http://stackoverflow.com/questions/30794035/in
 
 Será necessário que você instale os pacotes a seguir:
 
-{% highlight bash %}
+{% highlight Shell %}
 sudo apt-get install libxml2-dev
 sudo apt-get install libcurl4-openssl-dev
 sudo apt-get install libcurl4-gnutls-dev
