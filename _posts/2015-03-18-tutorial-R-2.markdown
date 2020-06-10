@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Como encontrar o maior e o menor elemento de um vetor (em R)"
+date: 2015-03-18 17:08:50
+categories: tutorial, R
+---
+
+Vamos supor que você possui um vetor *v* com os elementos seguintes: [1,2,3,4,0,11,25,63,74,5,100]. E você deseja encontrar o maior e o menor elemento desse vetor.
+
+Para fazer isso vamos usar as funções **max** e **min**. A função **max** recebe como parâmetro o vetor e retorna o maior elemento encontrado, já a função **min** retorna o menor elemento encontrado.
+
+{% highlight R %}
+v <- c(1,2,3,4,0,11,25,63,74,5,100)
+max(v) # retorna 100
+min(v) # retorna 0
+{% endhighlight %}
