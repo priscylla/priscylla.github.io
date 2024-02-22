@@ -3,7 +3,7 @@
 title: Priscylla Silva
 
 # Name pronunciation (optional)
-name_pronunciation: Priscylla Silva
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Priscylla
@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Computer Science and Computational Mathematics
       institution: São Paulo University
-      year: 2025*
+      year: current
     - course: MSc in Computer Science
       institution: Federal University of Campina Grande
       year: 2018
