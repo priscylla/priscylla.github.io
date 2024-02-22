@@ -32,6 +32,8 @@ interests:
   - Explainable Artificial Intelligence
   - Graph Neural Networks
   - Large Language Models
+  - Machine learning in crime prediction
+  - Sports Analytics
 
 # Education to show in About widget
 education:
