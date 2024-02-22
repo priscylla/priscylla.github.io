@@ -39,7 +39,7 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science and Computational Mathematics
-      institution: São Paulo University
+      institution: University of São Paulo
       year: current
     - course: MSc in Computer Science
       institution: Federal University of Campina Grande
