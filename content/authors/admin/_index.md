@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Priscylla Silva
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Priscylla Silva
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Priscylla
+last_name: Silva
 
 # Status emoji
 status:
@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ICMC - São Paulo University
+    url: https://www.icmc.usp.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Explainable Artificial Intelligence, Graph Neural Networks, and LLMs.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Explainable Artificial Intelligence
+  - Graph Neural Networks
+  - Large Language Models
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science and Computational Mathematics
+      institution: São Paulo University
+      year: 2025*
+    - course: MSc in Computer Science
+      institution: Federal University of Campina Grande
+      year: 2018
+    - course: BSc in Computer Science
+      institution: Federal University of Alagoas
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +120,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a Ph.D. student at the University of São Paulo, working with Professor Gustavo Nonato. My area of research lies in applying machine learning techniques, especially Graph Neural Networks, to solve problems with sparse spatio-temporal data.
+
+I obtained my Master’s in Computer Science from the Federal University of Campina Grande under Prof. Joseana Fechine. During my Master’s degree study, my area of research was Artificial Intelligence in Education. In my work, I developed an Intelligent Tutoring System with automatic feedback for CS1 courses.
+
+I obtained my Bachelor of Computer Science at the Federal University of Alagoas. During this time, I work with Professor Evandro Costa. In addition, I participated as a developer in creating three intelligent tutoring systems in Mathematics, Propositional Logic, and Computer Programming.
 {style="text-align: justify;"}
