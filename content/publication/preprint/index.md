@@ -17,7 +17,6 @@ publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "AI for Education: Bridging Innovation and Responsibility at the 38th AAAI Annual Conference on AI"
-publication_short: "AI2Ed at AAAI"
 
 abstract: Machine learning and deep learning models are pivotal in educational contexts, particularly in predicting student success. Despite their widespread application, a significant gap persists in comprehending the factors influencing these models' predictions, especially in explainability within education. This work addresses this gap by employing nine distinct explanation methods and conducting a comprehensive analysis to explore the correlation between the agreement among these methods in generating explanations and the predictive model's performance. Applying Spearman's correlation, our findings reveal a very strong correlation between the model's performance and the level of agreement observed among the explanation methods.
 
@@ -66,5 +65,3 @@ url_slides: 'https://www.priscyllasilva.com.br/publication/preprint/slides.pdf'
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
