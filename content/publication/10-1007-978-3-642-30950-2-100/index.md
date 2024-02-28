@@ -11,6 +11,7 @@ publishDate: '2024-02-22T17:03:41.211130Z'
 publication_types:
 - paper-conference
 publication: '*Intelligent Tutoring Systems*'
+doi: 10.1007/978-3-642-30950-2_100
 abstract: This paper reports on preliminary efforts to develop a multi- agent-based
   Intelligent Tutoring System for teaching propositional logic using two integrated
   approaches with focus on checking the validation of a given argument. One motivation

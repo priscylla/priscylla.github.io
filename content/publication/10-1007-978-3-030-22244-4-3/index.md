@@ -10,6 +10,7 @@ publishDate: '2024-02-22T17:03:41.217947Z'
 publication_types:
 - paper-conference
 publication: '*Intelligent Tutoring Systems*'
+doi: 10.1007/978-3-030-22244-4_3
 abstract: 'This paper describes an approach to help students involved in a Programming
   Tutoring System, providing them with feedback during the coding problem-solving
   activities. It provides feedback for students during the coding, helping them to
