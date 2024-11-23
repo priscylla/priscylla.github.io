@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '10rem'
+  spacing: '5rem'
 
 # Page sections
 sections:
