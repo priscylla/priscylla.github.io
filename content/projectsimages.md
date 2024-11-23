@@ -21,7 +21,7 @@ sections:
           url: https://www.priscyllasilva.com.br/visagreement-page
         - title: Explainalytics
           description: A library to help assess, compare, and select feature attribution methods interactively.
-          image: explainalytics.png
+          image: explainalytics.webp
           url: https://www.priscyllasilva.com.br/explainalytics-page
   - block: resume-projects
     content:
