@@ -88,7 +88,7 @@ pager: false
       <div class="project">
        <img src="https://priscyllaifal.github.io/media/visagreement_hubf761a59d1d8a465d1cc2b861fb543aa_253560_100x100_fill_q80_h2_lanczos_center_3.webp" alt="Logo">
         <h3><a href="#">Visagreement</a></h3>
-        <p>A visualization tool for analyzing explanation method (dis)agreement..</p>
+        <p>A visualization tool for analyzing explanation method (dis)agreement.</p>
       </div>
       <div class="project">
         <img src="https://priscyllaifal.github.io/media/explainalytics_hu61d5b76e28df71bd853f3fc33c646171_211404_100x100_fill_q80_h2_lanczos_center_3.webp" alt="Logo">

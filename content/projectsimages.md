@@ -11,46 +11,26 @@ design:
 sections:
   - block: resume-projects
     content:
-      title: Selected Projects
+      title: Explainable Artificial Intelligence
       text: 
       # Upload project images to your `assets/media/` folder and reference the filename in the `image` option
       items:
         - title: Visagreement
-          description: Feedback in educational environments in the programming domain.
+          description: A visualization tool for analyzing explanation method (dis)agreement.
           image: visagreement.png
-          url: https://www.priscyllasilva.com.br/
+          url: https://www.priscyllasilva.com.br/visagreement-page
         - title: Explainalytics
-          description: A tool to simplify Curriculum Design with Interactive Knowledge Graphs.
+          description: A library to help assess, compare, and select feature attribution methods interactively.
           image: explainalytics.png
-          url: https://www.priscyllasilva.com.br/
-        - title: Outline-Graph
-          description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-          image: authoring_tool.webp
-          url: https://github.com/pytorch/pytorch
-        - title: Marvin
-          description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-          image: marvin.jpg
-          url: https://github.com/pytorch/pytorch
+          url: https://www.priscyllasilva.com.br/explainalytics-page
   - block: resume-projects
     content:
-      title: Test
+      title: Formative Feedback for Learning Introductory Programming
       text: 
       # Upload project images to your `assets/media/` folder and reference the filename in the `image` option
       items:
-        - title: Visagreement
-          description: Feedback in educational environments in the programming domain.
-          image: visagreement.png
-          url: https://www.priscyllasilva.com.br/
-        - title: Explainalytics
-          description: A tool to simplify Curriculum Design with Interactive Knowledge Graphs.
-          image: explainalytics.png
-          url: https://www.priscyllasilva.com.br/
-        - title: Outline-Graph
-          description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-          image: authoring_tool.webp
-          url: https://github.com/pytorch/pytorch
         - title: Marvin
-          description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+          description: Intelligent tutoring system for programming education.
           image: marvin.jpg
-          url: https://github.com/pytorch/pytorch
+          url: https://www.priscyllasilva.com.br/marvin-page
 ---
