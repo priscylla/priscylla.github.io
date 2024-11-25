@@ -151,7 +151,7 @@ education:
 awards:
   - title: Fellowship to the IGF 2015 in the Youth@IGF Program
     url: http://www.igf2015.br/program-youth-igf/
-    #certificate_url: https://www.datacamp.com
+    certificate_url: https://drive.google.com/file/d/1aOC45LZWy_yuWVq3SB26Qf9lm9nAgCIl/view?usp=sharing
     date: '2015-11-10'
     awarder: Internet Society (ISOC)
     #icon: coursera
