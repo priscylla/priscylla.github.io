@@ -169,7 +169,7 @@ awards:
     #  - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
   - title: 'Fellowship to the IETF 95 - First Time Fellows'
     url: https://www.internetsociety.org/past-ngl-programs/past-fellowship-to-ietf/fellows/
-    #certificate_url: https://www.datacamp.com
+    certificate_url: https://drive.google.com/file/d/1ZmwvwZTW5pKl7tmq1rmtXZz2moz4aJLX/view?usp=sharing
     date: '2016-04-03'
     awarder: Internet Society (ISOC)
     #icon: datacamp
