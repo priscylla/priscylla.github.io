@@ -23,7 +23,7 @@ sections:
           description: A library to help assess, compare, and select feature attribution methods interactively.
           image: explainalytics.webp
           url: https://www.priscyllasilva.com.br/explainalytics-page
-        - title: Exploring the Relationships
+        - title: Exploring Relationships
           description: Exploring the Relationship Between Feature Attribution Methods and Model Performance.
           image: relationship.png
           url: https://priscyllasilva.com.br/publication/ai4ed-aaai-2024/
