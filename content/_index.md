@@ -49,7 +49,7 @@ sections:
 
         I spent a year as a visiting scholar at the <ins>[Visualization and Data Analytics Research Center (VIDA)](https://vida.engineering.nyu.edu/)</ins> at New York University (NYU), where I worked under the guidance of <ins>[Prof. Claudio Silva](https://ctsilva.github.io/)</ins>.
 
-        My research journey began with a strong foundation in Artificial Intelligence in Education during my Master’s degree at the Federal University of Campina Grande (Brazil). Under the mentorship of Prof. Joseana Macêdo Fechine and Prof. Evandro de Barros Costa, I developed an Intelligent Tutoring System with automatic feedback designed to support students in introductory computer science (CS1) courses.
+        My research journey began with a strong foundation in Artificial Intelligence in Education during my Master’s degree at the Federal University of Campina Grande (Brazil). Under the mentorship of Prof. Joseana Macêdo Fechine and [Prof. Evandro de Barros Costa](https://scholar.google.pt/citations?user=NX2ik0YAAAAJ&hl=en), I developed an Intelligent Tutoring System with automatic feedback designed to support students in introductory computer science (CS1) courses.
 
         In my undergraduate studies at the Federal University of Alagoas (Brazil), I collaborated as a developer on two intelligent tutoring systems focused on Mathematics and Propositional Logic. These experiences cultivated my passion for creating AI systems that not only process data but also actively contribute to human learning and understanding.
     design:
