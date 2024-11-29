@@ -82,4 +82,6 @@ sections:
   #    # Reduce spacing
   #    spacing:
   #      padding: [0, 0, 0, 0]
+
+<iframe width="100%" height="685" frameborder="0" src="https://observablehq.com/embed/b8abfbb1d34a53e0@155?cells=chart"></iframe>
 ---
