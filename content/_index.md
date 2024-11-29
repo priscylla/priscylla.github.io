@@ -51,9 +51,9 @@ sections:
 
         My research journey began with a strong foundation in Artificial Intelligence in Education during my Master’s degree at the Federal University of Campina Grande (Brazil). Under the mentorship of Prof. Joseana Macêdo Fechine and <ins>[Prof. Evandro de Barros Costa](https://scholar.google.pt/citations?user=NX2ik0YAAAAJ&hl=en)</ins>, I developed an Intelligent Tutoring System with automatic feedback designed to support students in introductory computer science (CS1) courses.
 
-        In my undergraduate studies at the Federal University of Alagoas (Brazil), I collaborated as a developer on two intelligent tutoring systems focused on Mathematics and Propositional Logic. These experiences cultivated my passion for creating AI systems that not only process data but also actively contribute to human learning and understanding...
+        In my undergraduate studies at the Federal University of Alagoas (Brazil), I collaborated as a developer on two intelligent tutoring systems focused on Mathematics and Propositional Logic. These experiences cultivated my passion for creating AI systems that not only process data but also actively contribute to human learning and understanding.
 
-        <iframe width="100%" height="685" frameborder="0" src="https://observablehq.com/embed/b8abfbb1d34a53e0@155?cells=chart"></iframe>
+        <iframe width="100%" height="300" frameborder="0" src="https://observablehq.com/embed/b8abfbb1d34a53e0@155?cells=chart"></iframe>
     design:
       columns: '1'
   #- block: collection
