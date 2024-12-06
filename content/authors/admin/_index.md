@@ -79,28 +79,25 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistent
+    company_name: GIVA Lab (Graphics, Imaging, Visualization and Analytics) at ICMC-USP
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2020-08-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Developed crime prediction techniques using the city's street network through graph neural networks (GNN).
+      - Conducting research and developing visual analytics tools to assist machine learning practitioners in selecting and applying feature attribution methods.
+  - position: Visiting Researcher
+    company_name: Visualization and Data Analytics Research Center at NYU
+    company_url: 'https://vida.engineering.nyu.edu/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-09-01
+    date_end: 2024-08-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Conducted research on Explainable AI (XAI), focusing on: i) Disagreement in local explanation methods; ii) Development of a Python library for systematic evaluation of feature attribution methods; iii) Analysis of large language models (LLMs) and their answer generation processes.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
