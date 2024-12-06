@@ -1,6 +1,5 @@
 ---
-title: 'An Adaptive Approach to Provide Feedback for Students in Programming Problem
-  Solving'
+title: 'An Adaptive Approach to Provide Feedback for Students in Programming Problem Solving'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -44,7 +43,7 @@ abstract: 'This paper describes an approach to help students involved in a Progr
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Education]
+tags: [Education, AI, ITS]
 
 # Display this page in the Featured widget?
 featured: true

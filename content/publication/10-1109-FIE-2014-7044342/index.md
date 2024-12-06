@@ -39,7 +39,7 @@ abstract: 'In this paper, we propose an agent-based ITS for learning proposition
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Education]
+tags: [Education, AI]
 
 # Display this page in the Featured widget?
 featured: true

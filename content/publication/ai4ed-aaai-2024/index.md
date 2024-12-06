@@ -33,7 +33,7 @@ abstract: 'This paper reports on preliminary efforts to develop a multi- agent-b
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Education, XAI]
+tags: [Education, XAI, AI]
 
 # Display this page in the Featured widget?
 featured: true
