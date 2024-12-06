@@ -97,7 +97,16 @@ work:
     date_end: 2024-08-31
     summary: |
       Responsibilities include:
-      - Conducted research on Explainable AI (XAI), focusing on: i) Disagreement in local explanation methods; ii) Development of a Python library for systematic evaluation of feature attribution methods; iii) Analysis of large language models (LLMs) and their answer generation processes.
+      - Conducted research on Explainable AI (XAI), focusing on: i) Disagreement in Feature Attribution Methods; ii) Development of a Python library for systematic evaluation of feature attribution methods; iii) Analysis of large language models (LLMs) and their answer generation processes.
+  - position: Research Assistent
+    company_name: Software Research Center at IFAL
+    company_url: 'https://cpsoftware.ifal.edu.br/'
+    company_logo: ''
+    date_start: 2020-08-01
+    date_end: 2021-03-30
+    summary: |
+      Responsibilities include:
+      - Served as an instructor, educating audiences on the transformative impact of 5G technology on the development and deployment of AI applications.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
