@@ -102,7 +102,7 @@ work:
       - Investigated patterns of disagreement among feature attribution methods in Explainable AI (XAI), providing insights into how disagreement relates to explanation quality and machine learning model accuracy
       - Created a Python library to assist machine learning practitioners in systematically assessing, comparing, and selecting the most appropriate feature attribution method for their needs; published findings
       - Conducted an analysis of large language models (LLMs), focusing on their reasoning processes, output generation, and issues related to hallucination
-      
+
   - position: Research Assistent
     company_name: Software Research Center at IFAL
     company_url: 'https://cpsoftware.ifal.edu.br/'
@@ -111,7 +111,8 @@ work:
     date_end: 2021-03-30
     summary: |
       Responsibilities include:
-      - Served as an instructor, educating audiences on the transformative impact of 5G technology on the development and deployment of AI applications.
+      - Led educational sessions highlighting the transformative impact of 5G technology on AI systems %development and deployment
+      - Authored technical documentation demonstrating the/ applications of AI and 5G solutions in the industry
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
