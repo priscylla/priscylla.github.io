@@ -88,8 +88,8 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Developed crime prediction techniques using the city's street network through graph neural networks (GNN).
-      - Conducting research and developing visual analytics tools to assist machine learning practitioners in selecting and applying feature attribution methods.
+      - Analyzed crime patterns using complex network metrics and developed a Graph Neural Network (GNN)-based technique for crime prediction utilizing the city’s street network structure
+      -  Designed and implemented visual analytics tools to assist machine learning practitioners in selecting and applying feature attribution methods
   - position: Visiting Researcher
     company_name: Visualization and Data Analytics Research Center at NYU
     company_url: 'https://vida.engineering.nyu.edu/'
