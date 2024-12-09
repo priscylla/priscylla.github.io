@@ -114,6 +114,16 @@ work:
       - Led educational sessions highlighting the transformative impact of 5G technology on AI systems %development and deployment
       - Authored technical documentation demonstrating the/ applications of AI and 5G solutions in the industry
 
+  - position: Research Assistent
+    company_name: Computational and Cognitive Models Group at Federal University of Campina Grande
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-02-01
+    date_end: 2021-10-31
+    summary: |
+      Responsibilities include:
+      - Designed and implemented an Intelligent Tutoring System (ITS) for introductory programming courses, featuring automated formative feedback to support student learning and enhance problem-solving skills; published findings
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 #skills:
