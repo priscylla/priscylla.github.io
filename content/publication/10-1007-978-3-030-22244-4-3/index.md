@@ -58,7 +58,7 @@ url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-22244-4_3'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
 #url_project: ''
-#url_slides: ''
+url_slides: 'https://priscyllasilva.com.br/publication/10-1007-978-3-030-22244-4-3/slides.pdf'
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_video: 'https://youtube.com'
 
