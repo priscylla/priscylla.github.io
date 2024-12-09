@@ -118,11 +118,23 @@ work:
     company_name: Computational and Cognitive Models Group at Federal University of Campina Grande
     company_url: ''
     company_logo: ''
-    date_start: 2020-02-01
-    date_end: 2021-10-31
+    date_start: 2015-02-01
+    date_end: 2018-10-31
     summary: |
       Responsibilities include:
       - Designed and implemented an Intelligent Tutoring System (ITS) for introductory programming courses, featuring automated formative feedback to support student learning and enhance problem-solving skills; published findings
+
+  - position: Research Assistent
+    company_name: TIPS Lab at Federal University of Alagoas
+    company_url: ''
+    company_logo: ''
+    date_start: 2010-01-01
+    date_end: 2014-10-31
+    summary: |
+      Responsibilities include:
+      - Designed and deployed Intelligent Tutoring Systems for Propositional Logic and Mathematics, integrated into university courses _Fundamentals of Mathematics_ and _Logic Applied to Computing_
+      - Contributed to a project integrating data from multiple sources using a semantic approach to construct and maintain user profiles for enhancing a recommender system
+      - Gained hands-on experience in recommendation systems, Case-Based Reasoning (CBR), Machine Learning, and programming with Scala, Python, ShellScript, and Java
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
