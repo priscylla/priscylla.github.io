@@ -72,7 +72,7 @@ education:
     date_start: 2010-03-01
     date_end: 2014-12-22
     summary: |
-       Thesis: An Intelligent Assistant for Personalized Educational Resource Recommendation. Supervised by [Prof. Evandro de Barros Costa](https://scholar.google.pt/citations?user=NX2ik0YAAAAJ&hl=en).
+       Thesis: An Intelligent Assistant for Personalized Educational Resource Recommendation. Supervised by [Prof. Evandro de Barros Costa](https://scholar.google.pt/citations?user=NX2ik0YAAAAJ&hl=en). Presented papers at 2 Brazilian conferences and one paper at the International Conference on Educational Data Mining (EDM 2014).
 #      GPA: 3.4/4.0
 #      
 #      Courses included:
