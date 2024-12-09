@@ -60,8 +60,8 @@ education:
     institution: Federal University of Campian Grande (UFCG)
     date_start: 2015-03-01
     date_end: 2018-10-08
-    #summary: |
-    #  GPA: 3.8/4.0
+    summary: |
+      Thesis: _Feedback in educational environments in the programming domain_. Supervised by [Prof. Joseana Macêdo Fechine Régis de Araujo](http://www.dsc.ufcg.edu.br/~joseana/) and [Prof. Evandro de Barros Costa](https://scholar.google.pt/citations?user=NX2ik0YAAAAJ&hl=en). Presented papers at 4 Brazilian conferences, with the contributions being published at the International Conference on Intelligent Tutoring Systems (ITS 2019).
 
     #  Courses included:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -71,7 +71,8 @@ education:
     institution: Federal University of Alagoas (UFAL)
     date_start: 2010-03-01
     date_end: 2014-12-22
-#    summary: |
+    summary: |
+       Thesis: An Intelligent Assistant for Personalized Educational Resource Recommendation. Supervised by [Prof. Evandro de Barros Costa](https://scholar.google.pt/citations?user=NX2ik0YAAAAJ&hl=en).
 #      GPA: 3.4/4.0
 #      
 #      Courses included:
