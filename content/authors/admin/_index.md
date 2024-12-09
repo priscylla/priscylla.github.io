@@ -81,7 +81,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Research Assistent
-    company_name: GIVA Lab (Graphics, Imaging, Visualization and Analytics) at ICMC-USP
+    company_name: GIVA Lab (Graphics, Imaging, Visualization and Analytics Lab) at ICMC-USP
     company_url: ''
     company_logo: ''
     date_start: 2020-08-01
@@ -90,15 +90,19 @@ work:
       Responsibilities include:
       - Analyzed crime patterns using complex network metrics and developed a Graph Neural Network (GNN)-based technique for crime prediction utilizing the city’s street network structure
       -  Designed and implemented visual analytics tools to assist machine learning practitioners in selecting and applying feature attribution methods
+
   - position: Visiting Researcher
-    company_name: Visualization and Data Analytics Research Center at NYU
+    company_name: Visualization and Data Analytics Research (VIDA) Center at NYU
     company_url: 'https://vida.engineering.nyu.edu/'
     company_logo: ''
     date_start: 2023-09-01
     date_end: 2024-08-31
     summary: |
       Responsibilities include:
-      - Conducted research on Explainable AI (XAI), focusing on: i) Disagreement in Feature Attribution Methods; ii) Development of a Python library for systematic evaluation of feature attribution methods; iii) Analysis of large language models (LLMs) and their answer generation processes.
+      - Investigated patterns of disagreement among feature attribution methods in Explainable AI (XAI), providing insights into how disagreement relates to explanation quality and machine learning model accuracy
+      - Created a Python library to assist machine learning practitioners in systematically assessing, comparing, and selecting the most appropriate feature attribution method for their needs; published findings
+      - Conducted an analysis of large language models (LLMs), focusing on their reasoning processes, output generation, and issues related to hallucination
+      
   - position: Research Assistent
     company_name: Software Research Center at IFAL
     company_url: 'https://cpsoftware.ifal.edu.br/'
