@@ -36,5 +36,5 @@ sections:
         - title: Marvin
           description: Intelligent tutoring system for programming education.
           image: marvin.png
-          url: https://www.priscyllasilva.com.br/marvin-page
+          url: https://www.priscyllasilva.com.br/#
 ---
