@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.priscyllasilva.com.br/publication/iraise-aaai-2025/paper.pdf'
+url_pdf: 'https://arxiv.org/abs/2503.14630'
 url_code: 'https://github.com/priscylla/Assessing-LMMs-for-Feedback-Generation'
 url_dataset: 'https://github.com/priscylla/Assessing-LMMs-for-Feedback-Generation'
 url_poster: 'https://www.priscyllasilva.com.br/publication/iraise-aaai-2025/poster.pdf'
