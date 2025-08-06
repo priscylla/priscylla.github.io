@@ -1,9 +1,8 @@
 ---
-title: "Teaching"
+title: 'Teaching'
 date: 2025-08-05
 type: "page"
 layout: "default"
-icon: chalkboard-teacher
 summary: "Teaching philosophy, university courses, and high school experience"
 ---
 
