@@ -22,3 +22,6 @@ main:
   - name: Teaching
     url: teaching/
     weight: 40
+  - name: Mentoring
+    url: mentoring/
+    weight: 40
