@@ -34,15 +34,15 @@ I mentored high school students enrolled in technical and outreach programs at f
 
 ##### Social Impact Projects
 
-- **Teaching Programming & Digital Inclusion**  
-  _10 students (2017–2018)_  
+- **Teaching Programming & Digital Inclusion** (2017–2018)  
+  _10 students involved_   
   Mentored students in projects focused on expanding access to computing education in underserved communities. Activities included teaching basic computer use, logic, and programming to the public through initiatives.
-  **Outputs**: Community workshops; student-led instructional materials.
+  **Output**: Community workshops; student-led instructional materials.
 
-- **Robotics and Educational Outreach**
-    _4 students (2017–2018)_
-    Led the **Robotech** group in designing and implementing robotics outreach programs for local schools. The students built robots and created engaging learning materials to introduce K–12 students to STEM.
-    **Outputs**: Educational robotics demos; participation in local exhibitions.
+- **Robotics and Educational Outreach** (2017–2018)  
+  _4 students involved_   
+  Led the **Robotech** group in designing and implementing robotics outreach programs for local schools. The students built robots and created engaging learning materials to introduce K–12 students to STEM.
+  **Output**: Educational robotics demos; participation in local exhibitions.
 
 - **Innovation, IoT & Smart Solutions**
   _5 students (2021)_
