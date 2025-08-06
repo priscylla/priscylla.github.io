@@ -7,9 +7,8 @@ icon: chalkboard-teacher
 summary: "Teaching philosophy, university courses, and high school experience"
 ---
 
-# 👩‍🏫 Teaching
 
-## 🎓 Teaching Philosophy
+### 🎓 Teaching Philosophy
 
 My teaching is guided by the principles of **Paulo Freire**, emphasizing dialogue, critical thinking, and student empowerment. I aim to create inclusive and interactive learning environments where students feel safe to explore, question, and grow.
 
@@ -17,9 +16,9 @@ I have been teaching core **computer science concepts** to diverse groups of stu
 
 ---
 
-## 🏛️ University Teaching
+### 🏛️ University Teaching
 
-### 🧑‍🔬 Teaching Assistant (TA)
+#### 🧑‍🔬 Teaching Assistant (TA)
 
 - **Computational Visualization (SCC0252)**  
   _University of São Paulo (USP) – Undergraduate Level - Aug 2024-Dec 2024_  
@@ -46,7 +45,7 @@ I have been teaching core **computer science concepts** to diverse groups of stu
 
 ---
 
-## 🏫 High School Teaching
+### 🏫 High School Teaching
 
 After completing my undergraduate studies, I worked as a **Computer Science teacher in federal technical high schools in Brazil** until the beginning of my Ph.D. I taught students from vocational programs, focusing on both foundational and applied computing topics. My teaching emphasized **digital fluency**, **computational thinking**, and **practical skills** in software and networking.
 
@@ -60,5 +59,5 @@ After completing my undergraduate studies, I worked as a **Computer Science teac
   _Teacher, Sep 2014 – Jun 2016_  
   Topics: computer networks, Linux, shell scripting, TCP/IP architecture  
   Focus: practical lab-based instruction and systems-level understanding
-  
+
 ---
