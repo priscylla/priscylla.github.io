@@ -6,8 +6,6 @@ layout: "default"
 summary: "Research mentoring, student guidance, and academic outreach"
 ---
 
-### Mentoring
-
 Over the past years, I have mentored more than **40 students** from high school and undergraduate programs in **research**, **social impact**, and **software development** projects.
 
 ---
@@ -31,10 +29,7 @@ I mentored high school students enrolled in technical and outreach programs at f
 
 - **Programming Learning Analytics**  
   _6 students (2015–2018) – IFAL & IFSE_
-  Supervised a multi-year scientific initiation project focused on analyzing how high school students learn programming in technical education settings. The research explored:
-    - Peer assessment strategies to support feedback and collaboration
-    - Visualization of student performance and learning progress
-    - Identification and classification of common errors in programming exercises
+  Supervised a multi-year scientific initiation project focused on analyzing how high school students learn programming in technical education settings. The research explored: Peer assessment strategies to support feedback and collaboration, Visualization of student performance and learning progress, and Identification and classification of common errors in programming exercises.
   **Outputs**: 2 papers published and presented at a regional and a national conference; prototype dashboards to support programming instruction; early exploration of learning analytics in Brazilian secondary education.
 
 ##### Social Impact Projects
@@ -45,9 +40,9 @@ I mentored high school students enrolled in technical and outreach programs at f
   **Outputs**: Community workshops; student-led instructional materials.
 
 - **Robotics and Educational Outreach**
-  _4 students (2017–2018)_
-  Led the **Robotech** group in designing and implementing robotics outreach programs for local schools. The students built robots and created engaging learning materials to introduce K–12 students to STEM.
-  **Outputs**: Educational robotics demos; participation in local exhibitions.
+    _4 students (2017–2018)_
+    Led the **Robotech** group in designing and implementing robotics outreach programs for local schools. The students built robots and created engaging learning materials to introduce K–12 students to STEM.
+    **Outputs**: Educational robotics demos; participation in local exhibitions.
 
 - **Innovation, IoT & Smart Solutions**
   _5 students (2021)_
@@ -70,14 +65,12 @@ I supervised two collaborative software development projects where high school s
 - **MyMoto** (2019)  
   A mobile app to help motorcycle owners manage maintenance records, service reminders, and repair histories.  
   _3 students involved_  
-  **Output**:  
-  🏅 Registered Software – *MyMoto*. INPI Registration No. **BR512021000801-4**, filed on **Sept 10, 2020**
+  **Output**: 🏅 Registered Software – *MyMoto*. INPI Registration No. **BR512021000801-4**, filed on **Sept 10, 2020**
 
 - **E-nology** (2022)  
   An educational mobile app to support English teachers in computing courses by aligning vocabulary instruction with curriculum needs.  
   _2 students involved_  
-  **Output**:  
-  🏅 Registered Software – *E-nology*. INPI Registration No. **BR5120220005151-8**, filed on **March 10, 2022**
+  **Output**: 🏅 Registered Software – *E-nology*. INPI Registration No. **BR5120220005151-8**, filed on **March 10, 2022**
 
 
 ---
