@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D Student
+role: Ph.D
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -50,7 +50,7 @@ education:
   - area: PhD Computer Science
     institution: University of São Paulo
     date_start: 2020-08-08
-    #date_end: 
+    date_end: 2025-11-19
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:

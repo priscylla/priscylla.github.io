@@ -45,7 +45,7 @@ sections:
       title: 'Hello 👋'
       subtitle: ''
       text: |-
-        I’m Priscylla Silva, a Ph.D. student at the University of São Paulo (Brazil) working at the intersection of Explainable Artificial Intelligence (XAI), Visual Analytics, and Responsible AI, under the supervision of <ins>[Prof. Luis Gustavo Nonato](https://scholar.google.com/citations?user=p2tLSUsAAAAJ&hl=en)</ins>. My research focuses on developing human-centered tools that support practitioners in interpreting, comparing, and selecting feature attribution methods, enabling more transparent and trustworthy AI decision-making across domains.
+        I’m Priscylla Silva, I received my Ph.D. in Computer Science and Computational Mathematics from University of São Paulo (Brazil) with a research focus in the intersection of Explainable Artificial Intelligence (XAI), Visual Analytics, and Responsible AI, under the supervision of <ins>[Prof. Luis Gustavo Nonato](https://scholar.google.com/citations?user=p2tLSUsAAAAJ&hl=en)</ins>. My research focuses on developing human-centered tools that support practitioners in interpreting, comparing, and selecting feature attribution methods, enabling more transparent and trustworthy AI decision-making across domains.
 
         I spent one year as a visiting scholar at the <ins>[Visualization and Data Analytics Research Center (VIDA)](https://vida.engineering.nyu.edu/)</ins> at New York University (NYU), where I collaborated with <ins>[Prof. Claudio Silva](https://ctsilva.github.io/)</ins> on interactive systems for exploring disagreement among explanation methods.
 
